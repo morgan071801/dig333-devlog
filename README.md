@@ -27,26 +27,27 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - 1 quote from the reading(s)
 - 1 related comment on the reading(s)
 - 1 related follow-up question (what question does it bring up for you?)
+- 
 
 -"The Internet of Things: Roadmap to a Connected World
 -Quote:
 -Important Thing: "There are no clear and agreed-upon architectures for building connected systems."
 -Comment: I didn't really think about how different architectures
-can effect the systems
+-can effect the systems
 -Question: What are the essential elements for creating a test bed?
 
 -"The Internet of Things has a dirty little secret: it's not really yours"
 -Quote: "Well, for one, it means things are less reliable. More than once
-i've come home to an icy house because the internet had gone down, then spent hours trying to fix it only to have the thermostat jammed on 86 degrees until tech support reset my account."
-"My old devices were so dumb, but in hindsight, that waas kind of charming.
-They didn't do much, and perhaps that simplicity is really what we need."
+-i've come home to an icy house because the internet had gone down, then spent hours trying to fix it only to have the thermostat jammed on 86 degrees until tech ---support reset my account."
+-"My old devices were so dumb, but in hindsight, that waas kind of charming.
+-They didn't do much, and perhaps that simplicity is really what we need."
 -Comment: I sometime think about this and how reliable we are on technology
-I think this can also be expanded to beyond technology. This weekend
-my mom and I had a discussion on how reliant we are to having fully 
-stocked grocceries and gas supply. How we as humans are completely dependent
-on something else more than we are dependent on ourselves.
+-I think this can also be expanded to beyond technology. This weekend
+-my mom and I had a discussion on how reliant we are to having fully 
+-stocked grocceries and gas supply. How we as humans are completely dependent
+-on something else more than we are dependent on ourselves.
 -Question: How do we create evoling devices that we can still benefit
-from, but are not completely dependent on.
+-from, but are not completely dependent on.
 -How does these ideas expand to crypto currency?
 
 
