@@ -37,7 +37,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - Quote: "Well, for one, it means things are less reliable. More than once
 - i've come home to an icy house because the internet had gone down, then spent hours trying to fix it only to have the thermostat jammed on 86 degrees until tech
 - support reset my account."
-- "My old devices were so dumb, but in hindsight, that waas kind of charming.
+- "My old devices were so dumb, but in hindsight, that was kind of charming.
 - They didn't do much, and perhaps that simplicity is really what we need."
 - Comment: I sometime think about this and how reliable we are on technology
 - I think this can also be expanded to beyond technology. This weekend
@@ -47,6 +47,12 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - Question: How do we create evoling devices that we can still benefit
 - from, but are not completely dependent on.
 - How does these ideas expand to crypto currency?
+- Summarize: When creating new devices the 2 artciles suggest that we need to be more
+- precaution when constructing around reliability. More specifically
+- we need to make sure there is agreemenent between systems. As well as
+- its important to develop systems to reflect architectural choices. Lastly,
+- we should create a test bed to make sure we are not too reliable on 
+- these new product.
 
 
 
