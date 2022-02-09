@@ -62,5 +62,5 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 1. Name of the experiment
     1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
+    1. I re-sparked my ability to use circuts.
     1. Write a quiz question (which we will discuss in class)
