@@ -19,7 +19,9 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 
 
-## Week 1 ## Week 2
+## Week 1 
+
+## Week 2
 
 ### Context
 
@@ -61,9 +63,13 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
 1. Name of the experiment
-    1. Text, photos, etc. Coming Soon...
-    1. I re-sparked my ability to use circuts. 
-    1. Write a quiz question (which we will discuss in class) Coming soon...
+    1. ![measuring-volt](https://user-images.githubusercontent.com/81450987/153266397-5b75d316-d42c-4c11-acdf-f98534e8dfc5.JPG)
+![circuit-one](https://user-images.githubusercontent.com/81450987/153266399-dd7d5569-645c-41e1-b042-1392f6cb5d0b.JPG)
+![burn-led](https://user-images.githubusercontent.com/81450987/153266400-f2fd18cb-da15-4ba7-823c-0a6794976a15.JPG)
+Text, photos, etc. 
+    2. 
+    3. I re-sparked my ability to use circuts. 
+    4. Write a quiz question (which we will discuss in class) Coming soon...
 
 ## Week 3
 -"Artist Profile: Julian Oliver"
