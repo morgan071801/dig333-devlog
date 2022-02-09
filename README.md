@@ -19,8 +19,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 
 
-## Week 1
-## Week 2
+## Week 1 ## Week 2
 
 ### Context
 
