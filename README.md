@@ -20,6 +20,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 
 ## Week 1
+## Week 2
 
 ### Context
 
@@ -61,6 +62,23 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
 1. Name of the experiment
-    1. Text, photos, etc.
-    1. I re-sparked my ability to use circuts.
-    1. Write a quiz question (which we will discuss in class)
+    1. Text, photos, etc. Coming Soon...
+    1. I re-sparked my ability to use circuts. 
+    1. Write a quiz question (which we will discuss in class) Coming soon...
+
+## Week 3
+-"Artist Profile: Julian Oliver"
+-Quote: "Engineering, not Art, is the most transformative language of our time."
+-Comment: I think the above quote is truly intriguing mainly because in most of the centuries before our time art was the most transformative 
+-language especially during the Reniassance, but now we've reached the point where it's not the creation of the abstract that is changing thought, but instead the creation of physical objects through engineering.
+-Important Thing: Our engineered communication is mostly private, but it has always been like this before engineered communication. For example during the enlightment period, there were secret socities. Therefore my question is....
+-Question: Why do we yearn for engineered and non-engineered communication to be private?
+-
+-"The Critical Engineering Working Group"
+-Quote: "The greater the dependance on a technology the greater the need to study and expose its inner workings"
+-Comment: I definitely experience the above quote on a daily. For example recently my laptop broke and I had to send it in to get fixed, therefore because we have become so dependent on technology we have specific places that know and understand the inner workings of technology. Without the knowledge of the inner working we wouldn't be able to fix nor develop it.
+-Important Thing: "written code expands into social and psychological realms, regulating behaviour between people and the machines they interact with"
+-Question: The article describes what the critical engineer considers, but how should we define the critical engineer?
+
+### Experiments
+
