@@ -21,18 +21,19 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 ## Week 1 
 
-## Week 2
 
 ### Context
 
 <p style="text-align: center;">&quot;<strong>The Internet of Things: Roadmap to a Connected World</strong></p>
 <p>1.<strong>&nbsp;Summary:</strong></p>
-<p><strong>2. Quote:</strong></p>
+<p><strong>2. Quote:</strong>&quot;The Internet of Things has a dirty little secret: it&apos;s not really yours&quot;</strong></p>
 <p><strong>3. Important Thing:</strong> &quot;There are no clear and agreed-upon architectures for building connected systems.&quot;</p>
 <p><strong>4. &nbsp;Comment:</strong> I didn&apos;t really think about how different architectures can effect the systems</p>
 <p><strong>5. Question:</strong> What are the essential elements for creating a test bed?</p>
 <p><br></p>
-<p style="text-align: center;"><strong>&quot;The Internet of Things has a dirty little secret: it&apos;s not really yours&quot;</strong></p>
+
+## Week 2
+
 <p><strong>1. Summary:</strong></p>
 <p><strong>2. Quote:&nbsp;</strong>&quot;Well, for one, it means things are less reliable. More than once i&apos;ve come home to an icy house because the internet had gone down, then spent hours trying to fix it only to have the thermostat jammed on 86 degrees until tech support reset my account. My old devices were so dumb, but in hindsight, that was kind of charming. They didn&apos;t do much, and perhaps that simplicity is really what we need.&quot;</p>
 <p><strong>3. Comment:</strong> I sometimes think about this and how reliable we are on technology. I think this can also be expanded to beyond technology. This weekend my mom and I had a discussion on how reliant we are to having fully stocked grocceries and gas supply. How we as humans are completely dependent on something else more than we are dependent on ourselves.</p>
@@ -54,8 +55,7 @@ Text, photos, etc.
     4. Write a quiz question (which we will discuss in class) Coming soon...
 
 ## Week 3
-<p><br></p>
-<p>&nbsp;</p>
+
 <p style="text-align: center;">&quot;<strong>"Artist Profile: Julian Oliver"</strong></p>
 
 <p><strong>1. Summary:</strong> &quot;&quot;</p>
