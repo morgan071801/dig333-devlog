@@ -25,7 +25,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 ### Context
 
 <p style="text-align: center;">&quot;<strong>The Internet of Things: Roadmap to a Connected World</strong></p>
-<p>1.<strong>&nbsp;Summary:</strong>In the Internet of Things, the main topic is our dependency on technology. Examples such as alarm systems, dog doors and many more are given in the question of what would we do if the WiFi no longer existed. Therefore the article suggests that we must create aiding technology that supports us, but also that we are not completely dependent on.</p>
+<p>1.<strong>&nbsp;Summary:</strong> The Internet of Things discussed the architecture of our society's dependency on the internet. .</p>
 <p><strong>2. Quote:</strong>&quot;The Internet of Things has a dirty little secret: it&apos;s not really yours&quot;</strong></p>
 <p><strong>3. Important Thing:</strong> &quot;There are no clear and agreed-upon architectures for building connected systems.&quot;</p>
 <p><strong>4. &nbsp;Comment:</strong> I didn&apos;t really think about how different architectures can effect the systems</p>
@@ -34,7 +34,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 ## Week 2
 
-<p><strong>1. Summary:</strong></p>
+<p><strong>1. Summary:</strong> In the article the main topic is our dependency on technology. Examples such as alarm systems, dog doors and many more are given in the question of what would we do if the WiFi no longer existed. Therefore the article suggests that we must create aiding technology that supports us, but also that we are not completely dependent on</p>
 <p><strong>2. Quote:&nbsp;</strong>&quot;Well, for one, it means things are less reliable. More than once i&apos;ve come home to an icy house because the internet had gone down, then spent hours trying to fix it only to have the thermostat jammed on 86 degrees until tech support reset my account. My old devices were so dumb, but in hindsight, that was kind of charming. They didn&apos;t do much, and perhaps that simplicity is really what we need.&quot;</p>
 <p><strong>3. Comment:</strong> I sometimes think about this and how reliable we are on technology. I think this can also be expanded to beyond technology. This weekend my mom and I had a discussion on how reliant we are to having fully stocked grocceries and gas supply. How we as humans are completely dependent on something else more than we are dependent on ourselves.</p>
 <p><strong>4. Question:&nbsp;</strong>How do we create evolving devices that we can still benefit from, but are not completely dependent on? How does these ideas expand into crypto currency?</p>
@@ -58,7 +58,7 @@ Text, photos, etc.
 
 <p style="text-align: center;">&quot;<strong>"Artist Profile: Julian Oliver"</strong></p>
 
-<p><strong>1. Summary:</strong> &quot;&quot;</p>
+<p><strong>1. Summary:</strong> &quot;&quot;</p> "This discusses the secretive reputation of the internet </p>
 <p><strong>2. Quote:</strong> &quot;Engineering, not Art, is the most, is the most transformative language.&quot;</p>
 <p><strong>3. Comment:</strong> I think the above quote is truly intriguing mainly because in most of the centuries before our time art was the most transformative language especially during the Reniassance, but now we&apos;ve reached the point where it&apos;s not the creation of the abstract that is changing thought, but instead the creation of physical objects through engineering.</p>
 <p><strong>4. Important Thing</strong>: Our engineered communication is mostly private, but it has always been like this before engineered communication. For example during the enlightment period, there were secret socities.&nbsp;</p>
@@ -72,4 +72,7 @@ Text, photos, etc.
 <p><strong>5. Question:</strong> The article describes what the critical engineer considers, but how should we define the critical engineer?</p>
 
 ### Experiments
+
+
+## Week 4
 
