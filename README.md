@@ -25,7 +25,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 ### Context
 
 <p style="text-align: center;">&quot;<strong>The Internet of Things: Roadmap to a Connected World</strong></p>
-<p>1.<strong>&nbsp;Summary:</strong></p>
+<p>1.<strong>&nbsp;Summary:</strong>In the Internet of Things, the main topic is our dependency on technology. Examples such as alarm systems, dog doors and many more are given in the question of what would we do if the WiFi no longer existed. Therefore the article suggests that we must create aiding technology that supports us, but also that we are not completely dependent on.</p>
 <p><strong>2. Quote:</strong>&quot;The Internet of Things has a dirty little secret: it&apos;s not really yours&quot;</strong></p>
 <p><strong>3. Important Thing:</strong> &quot;There are no clear and agreed-upon architectures for building connected systems.&quot;</p>
 <p><strong>4. &nbsp;Comment:</strong> I didn&apos;t really think about how different architectures can effect the systems</p>
