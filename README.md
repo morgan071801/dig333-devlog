@@ -76,3 +76,5 @@ Text, photos, etc.
 
 ## Week 4
 
+<p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
+
