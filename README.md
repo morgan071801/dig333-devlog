@@ -90,4 +90,15 @@ Text, photos, etc.
     <p><strong>3. Comment:</strong> I am really starting to see a reoccuring overlap between this class and my Music: Sound with Impact Class and I am thinking my final project will somewhat be related to music.</p>
     <p><strong>4. Important Thing:</strong> &quot;This reading is such an engima because as stated the method Doc preserves music also erases its value&quot;</p>
     <p><strong>5. Question:</strong> How do we preserve music without erasing its meaning?</p>
+    
+<p style="text-align: center;"><strong>&quot;All Watched Over Machines By Loving Grace &quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; I could not find the link to this on the Website.</p>
+
+<p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
+### Experiments
+
+<p><strong>1. Summary:</strong> &quot;&quot; I am behind on my experiments but I plan to have my Devlog completed updated by this weekend.</p>
+
+
+    
 
