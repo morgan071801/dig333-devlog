@@ -16,7 +16,7 @@
 BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DETAILS 
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 -->
-##Currently super behind on my experiments, but will have the documentation up soon
+## I am trying to get caught up on my experiments
 
 
 ## Week 1 
@@ -68,7 +68,7 @@ Text, photos, etc.
 <p><strong>1. Summary:</strong> &quot;&quot;</p>
 <p><strong>2. Quote:</strong> &quot;The greater the dependance on a technology the greater the need to study and expose its inner workings&quot;</p>
 <p><strong>3. Comment:</strong> I definitely experience the above quote on a daily. For example recently my laptop broke and I had to send it in to get fixed, therefore because we have become so dependent on technology we have specific places that know and understand the inner workings of technology. Without the knowledge of the inner working we wouldn&apos;t be able to fix nor develop it.</p>
-<p><strong>4. Important Thing:</strong> &quot;written code expands into social and psychological realms, regulating behaviour between people and the machines they interact with&quot;</p>
+<p><strong>4. Important Thing:</strong> &quot; written code expands into social and psychological realms, regulating behaviour between people and the machines they interact with&quot;</p>
 <p><strong>5. Question:</strong> The article describes what the critical engineer considers, but how should we define the critical engineer?</p>
 
 ### Experiments
@@ -77,4 +77,17 @@ Text, photos, etc.
 ## Week 4
 
 <p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; In this article Dawes and Fergesson clarify and personify a printer. They talk about it from a new perpective</p>
+<p><strong>2. Quote:</strong> &quot;The word isn't print the word is build. We're building tools, making things." He pulled out the crude wooden cup
+    and laid it down on the ash." &quot;</p>
+    <p><strong>3. Comment:</strong> The above quote reminds me of a class I took called, "Book History, Arts and Culture," and how we think of word as print, but there's so much more to it.</p>
+    <p><strong>4. Important Thing:</strong> &quot;I think it's important to distinguish and define what is print and what is not&quot;</p>
+    <p><strong>5. Question:</strong> The article personifies a printer, but what other devices could they personify to see from a new perspective?</p>
+    
+<p style="text-align: center;"><strong>&quot;The Preserving Machine &quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; In this article he expressed his worry for the potential loss of music and delicate sound while paying tribute to it.</p>
+<p><strong>2. Quote:</strong> &quot;Music is the most perishable of things, fragile and delicate and easily destroyed." &quot;</p>
+    <p><strong>3. Comment:</strong> I am really starting to see a reoccuring overlap between this class and my Music: Sound with Impact Class and I am thinking my final project will somewhat be related to music.</p>
+    <p><strong>4. Important Thing:</strong> &quot;This reading is such an engima because as stated the method Doc preserves music also erases its value&quot;</p>
+    <p><strong>5. Question:</strong> How do we preserve music without erasing its meaning?</p>
 
