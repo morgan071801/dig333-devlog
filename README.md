@@ -126,7 +126,8 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 ### Experiments
 
 <p style="text-align: center;"><strong>&quot;RiPi Ch.3 & 5 &quot;</strong></p>
-<p><strong>1. Summary:</strong> &quot;&quot; I found this in class experiment very interesting and
+<p><strong>1. Summary:</strong>  I found this in class experiment very interesting and
     eye opening. It was cool to program a mini computer and actually login with a username.</p>
     
 
+![IMG_5117](https://user-images.githubusercontent.com/81450987/155254467-3467856b-20d1-4fb4-8f62-d69fce32edb1.jpeg)
