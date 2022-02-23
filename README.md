@@ -99,6 +99,32 @@ Text, photos, etc.
 
 <p><strong>1. Summary:</strong> &quot;&quot; I am behind on my experiments but I plan to have my Devlog completed updated by this weekend.</p>
 
+## Week 5
 
+<p style="text-align: center;"><strong>&quot;Everything That’s Inside Your iPhone&quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; In this article Merchant dives deeper than the foundational
+elements and into actual elements. </p>
+<p><strong>2. Quote:</strong> &quot; "I aimed to trace the device to its deepest roots. And that meant trying to glean what the iPhone was actually composed of at its most foundational levels." &quot;</p>
+    <p><strong>3. Comment:</strong> In this class and any other computer science class that I have taken, I always think about the computing break down, but this really helped me understand the physical computing breakdown of an everyday device from the perspective of an element. I also think its funny how a company
+like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in their products/</p>
+    <p><strong>4. Important Thing:</strong> &quot;I think this article has been the best yet to provide a better perspective of the 
+    physical computing side of elements.&quot;</p>
+    <p><strong>5. Question:</strong> I am interested to see the element breakdown of a Samsung vs IPhone?</p>
+    
+<p style="text-align: center;"><strong>&quot;One Man's Nearly Impossible Quest to Make a Toaster From Scratch &quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; In this article he expressed his worry for the potential loss of music and delicate sound while paying tribute to it.</p>
+<p><strong>2. Quote:</strong> &quot;"The smaller the scale you want to work on," explained Thwaites in his 2010 TED talk, "the further back in time you have to go." &quot;</p>
+    <p><strong>3. Comment:</strong> I found it interesting that they say plastic is the defining feature
+    of cheap electronic goods because I would usually associate a certain metal as a defining feature not plastic.</p>
+    <p><strong>4. Important Thing:</strong> &quot;I think its really important to emphasize that products like microwaves and iphones breakdown into various elements whereas when viewing by eye we might think otherwise&quot;</p>
+    <p><strong>5. Question:</strong> What are ways we can break down electronics when we are limited to the expensive resources they have in these readings?</p>
+    
+<p style="text-align: center;"><strong>&quot;All Watched Over Machines By Loving Grace &quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; I could not find the link to this on the Website.</p>
+
+<p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
+### Experiments
+
+<p><strong>1. Summary:</strong> &quot;&quot; I am behind on my experiments but I plan to have my Devlog completed updated by this weekend.</p>
     
 
