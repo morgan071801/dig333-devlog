@@ -125,6 +125,8 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 <p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
 ### Experiments
 
-<p><strong>1. Summary:</strong> &quot;&quot; I am behind on my experiments but I plan to have my Devlog completed updated by this weekend.</p>
+<p style="text-align: center;"><strong>&quot;RiPi Ch.3 & 5 &quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; I found this in class experiment very interesting and
+    eye opening. It was cool to program a mini computer and actually login with a username.</p>
     
 
