@@ -94,7 +94,7 @@ Text, photos, etc.
 <p style="text-align: center;"><strong>&quot;All Watched Over Machines By Loving Grace &quot;</strong></p>
 <p><strong>1. Summary:</strong> &quot;&quot; I could not find the link to this on the Website.</p>
 
-<p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
+
 ### Experiments
 
 <p style="text-align: center;"><strong>&quot;RiPi Ch.3 & 5 &quot;</strong></p>
