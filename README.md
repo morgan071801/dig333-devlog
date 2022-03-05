@@ -131,3 +131,23 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 
 <p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
 
+## Week 6
+
+<p style="text-align: center;"><strong>&quot;Igloo White&quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; In this article it dives deep into the use sensors in the miltary. </p>
+<p><strong>2. Quote:</strong> &quot; "The most widely used sensor for Igloo White was the air-delivered seismic detection sensor, which detected ground vibrations caused by enemy troops or vehicles. It was a small light, appearing much like the surrounding foilage" &quot;</p>
+    <p><strong>3. Comment:</strong> I thought this article was very interesting in a sense of showing how sensors play a part /</p>
+    <p><strong>4. Important Thing:</strong> &quot;I think this article has been the best yet to provide a better perspective of the use of sensors in the military. I feel like things like this are usually very secretive. 
+    physical computing side of elements.&quot;</p>
+    <p><strong>5. Question:</strong> What is the point of no return for sensors in the miltary?</p>
+    
+<p style="text-align: center;"><strong>&quot;Unseen Sensors: Constantly Sensing but Rarely Seen &quot;</strong></p>
+<p><strong>1. Summary:</strong> &quot;&quot; In this article he talks about the invisble sensors of the world to make his readers more aware of how present sensors are in our lives.</p>
+<p><strong>2. Quote:</strong> &quot;"For all their ubiquity, the aesthetics of these public objects are generally unconsidered, and their function and provenance are ebtirely inscrutable." &quot;</p>
+    <p><strong>3. Comment:</strong> I this article very relatable because I often feel intrigued about the ambiguity of our technology.</p>
+    <p><strong>4. Important Thing:</strong> &quot;"While the actual sensors may remain unchanged when policies and technologies shift, that which is qualiatively "sensed" changes dramatically as the systems analyzing data are installed, integrated, and upgraded. &quot;</p>
+    <p><strong>5. Question:</strong> To what extent should sesnors be ambiguious without crossing the line?</p>
+    
+
+
+
