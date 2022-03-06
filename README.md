@@ -43,16 +43,18 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 ### Experiments
 
-<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+![IMG_5200](https://user-images.githubusercontent.com/81450987/156942564-53bf8915-8d2c-446a-881d-5122caf458d6.jpeg)
+![IMG_5199](https://user-images.githubusercontent.com/81450987/156942569-e6600a93-2222-4e7c-b42f-b65f924eaabe.jpeg)
+![IMG_5203](https://user-images.githubusercontent.com/81450987/156942574-64108bb8-be77-4298-9c2f-6451eb8cf0e8.jpeg)
+![IMG_5195](https://user-images.githubusercontent.com/81450987/156942581-10344b04-7cf6-4002-909e-c1ebc94a58f9.jpeg)
+![IMG_5196](https://user-images.githubusercontent.com/81450987/156942583-95781897-7bcd-44df-a94b-0675a5909463.jpeg)
 
-1. Name of the experiment
+1. Networking
     1. ![measuring-volt](https://user-images.githubusercontent.com/81450987/153266397-5b75d316-d42c-4c11-acdf-f98534e8dfc5.JPG)
 ![circuit-one](https://user-images.githubusercontent.com/81450987/153266399-dd7d5569-645c-41e1-b042-1392f6cb5d0b.JPG)
 ![burn-led](https://user-images.githubusercontent.com/81450987/153266400-f2fd18cb-da15-4ba7-823c-0a6794976a15.JPG)
-Text, photos, etc. 
-    2. 
-    3. I re-sparked my ability to use circuts. 
-    4. Write a quiz question (which we will discuss in class) Coming soon...
+
+    
 
 ## Week 3
 
@@ -72,6 +74,7 @@ Text, photos, etc.
 <p><strong>5. Question:</strong> The article describes what the critical engineer considers, but how should we define the critical engineer?</p>
 
 ### Experiments
+
 
 
 ## Week 4
@@ -142,12 +145,17 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
     <p><strong>5. Question:</strong> What is the point of no return for sensors in the miltary?</p>
     
 <p style="text-align: center;"><strong>&quot;Unseen Sensors: Constantly Sensing but Rarely Seen &quot;</strong></p>
-<p><strong>1. Summary:</strong> &quot;&quot; In this article he talks about the invisble sensors of the world to make his readers more aware of how present sensors are in our lives.</p>
+<p><strong>1. Summary:</strong> &quot;&quot; In this article he talks about the invisble sensors of the world to make his readers more aware of how present sensors are in our lives.</p>[Uploading IMG_5204.HEIC…]()
+
 <p><strong>2. Quote:</strong> &quot;"For all their ubiquity, the aesthetics of these public objects are generally unconsidered, and their function and provenance are ebtirely inscrutable." &quot;</p>
     <p><strong>3. Comment:</strong> I this article very relatable because I often feel intrigued about the ambiguity of our technology.</p>
     <p><strong>4. Important Thing:</strong> &quot;"While the actual sensors may remain unchanged when policies and technologies shift, that which is qualiatively "sensed" changes dramatically as the systems analyzing data are installed, integrated, and upgraded. &quot;</p>
     <p><strong>5. Question:</strong> To what extent should sesnors be ambiguious without crossing the line?</p>
     
+### Experiments
+![IMG_5204](https://user-images.githubusercontent.com/81450987/156942552-ef41cee2-c891-47d8-ad80-650a4b2e524d.jpeg)
+
+
 
 
 
