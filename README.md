@@ -103,13 +103,25 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 <p style="text-align: center;"><strong>PLATT EXPERIMENTS</strong></p>
 <p>Materials:</p>
-<p>Breadboard, hookup wire, wire cutters, wire strippers, test leads, multimeter, 9-volt battery, and connector, Tactile switches, Generic LED, Resistors: 470 ohms, 1K, 10K (one of each), Capacitors</p>
+<p>Breadboard, hookup wire, wire cutters, wire strippers, multimeter, Transistor, 2N222(1), 9-volt battery and connector, Resistors: 470 ohms, Trimmer potentiometer, Generic LED</p>
 <p><br></p>
-<p>1. Measure Voltage of Battery: 9.57 V</p>
+<p>Things Learned While Doing the Experiments:</p>
+<p>-Never use two fingers for the finger test</p>
+<p>-A transistor is a semiconductor, it&apos;s a conductor and an insulator</p>
+<p>-A limitation of NPN and PNP transistors is that they need the power to perform a function</p>
+<p>-Never apply a power supply directly between 2 pins of a transistor</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
 <p><br></p>
 
-![IMG_6203 2](https://user-images.githubusercontent.com/81450987/160253366-af4cdd49-73b4-4dc7-91a2-7b3cc0b46c6a.jpeg)
+ <p>-1. Measure 9-volt battery to make sure it's usable</p>
 
+![IMG_6203 2](https://user-images.githubusercontent.com/81450987/160254650-043c525f-4e58-4572-9866-5d35b1fa895d.jpeg)
+
+ <p>-2. Set up experiment</p>
+
+![IMG_6209](https://user-images.githubusercontent.com/81450987/160254624-86cc1f14-65f2-4631-b288-eb12004065de.jpeg)
 
 
 ## Week 5
