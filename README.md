@@ -104,8 +104,11 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 <p style="text-align: center;"><strong>PLATT EXPERIMENTS</strong></p>
 <p>Materials:</p>
 <p>Breadboard, hookup wire, wire cutters, wire strippers, test leads, multimeter, 9-volt battery, and connector, Tactile switches, Generic LED, Resistors: 470 ohms, 1K, 10K (one of each), Capacitors</p>
+<p><br></p>
+<p>1. Measure Voltage of Battery: 9.57 V</p>
+<p><br></p>
 
-    
+![IMG_6203 2](https://user-images.githubusercontent.com/81450987/160253366-af4cdd49-73b4-4dc7-91a2-7b3cc0b46c6a.jpeg)
 
 
 
