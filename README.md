@@ -101,14 +101,11 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 ### Experiments
 
-<p style="text-align: center;"><strong>&quot;RiPi Ch.3 & 5 &quot;</strong></p>
-<p><strong>1. Summary:</strong>  In this experiment we set up and programmed our rasberry PIs. I found this in class experiment very interesting and
-    eye opening. It was cool to program a mini computer and actually login with a username. One issue I originally ran into was not being able to
-ping my PI. However, after a couple of trial and errors I figured out that I needed to unplug it from the ethernet and actually connect to
-WiFi because it interferred with the connection.</p>
+<p style="text-align: center;"><strong>PLATT EXPERIMENTS</strong></p>
+
     
 
-![IMG_5117](https://user-images.githubusercontent.com/81450987/155254467-3467856b-20d1-4fb4-8f62-d69fce32edb1.jpeg)
+
 
 ## Week 5
 
