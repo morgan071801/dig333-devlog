@@ -102,6 +102,8 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 ### Experiments
 
 <p style="text-align: center;"><strong>PLATT EXPERIMENTS</strong></p>
+<p>Materials:</p>
+<p>Breadboard, hookup wire, wire cutters, wire strippers, test leads, multimeter, 9-volt battery, and connector, Tactile switches, Generic LED, Resistors: 470 ohms, 1K, 10K (one of each), Capacitors</p>
 
     
 
