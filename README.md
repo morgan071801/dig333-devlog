@@ -102,6 +102,23 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 ### Experiments
 
 <p style="text-align: center;"><strong>PLATT EXPERIMENTS</strong></p>
+#6
+
+<p>Information I Learned:</p>
+<p>-Some switches only have two terminals</p>
+<p>- Sparking can erode the switch and make the connection not as reliable </p>
+<p>- Schematics don't just tell you where to put components. They also tell you how to put them together.</p>
+<p>- Although the switchs have two parts they are made up of one component. </p>
+<p>- Electronic devices with metal chassis that connects to pins are grounded. </p>
+<p> Resistors only have two variants: The US and European variants. </p>
+<p> The Potentiometer symbols identify the wiper in the potentiometer </p>
+<p> There a 3 types of push buttons: normal pushbuttom (momentary switch)- where pressure closes the circuit and releasing opens the circuit."
+<p> Crossovers are used when wires must pass over each other without creating an electrical circuit </p>
+    
+#7
+    
+
+
 <p>Materials:</p>
 <p>Breadboard, hookup wire, wire cutters, wire strippers, multimeter, Transistor, 2N222(1), 9-volt battery and connector, Resistors: 470 ohms, Trimmer potentiometer, Generic LED</p>
 <p><br></p>
@@ -115,11 +132,11 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 <p><br></p>
 <p><br></p>
 
- <p>-1. Measure 9-volt battery to make sure it's usable</p>
+
 
 ![IMG_6203 2](https://user-images.githubusercontent.com/81450987/160254650-043c525f-4e58-4572-9866-5d35b1fa895d.jpeg)
 
- <p>-2. Set up experiment</p>
+<![IMG_5198](https://user-images.githubusercontent.com/81450987/163834302-4058cedc-96db-4efb-9b40-9477a20173e6.JPG)
 
 ![IMG_6209](https://user-images.githubusercontent.com/81450987/160254624-86cc1f14-65f2-4631-b288-eb12004065de.jpeg)
 
