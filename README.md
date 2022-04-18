@@ -68,13 +68,8 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 <p><strong>4. Important Thing:</strong> &quot; written code expands into social and psychological realms, regulating behaviour between people and the machines they interact with&quot;</p>
 <p><strong>5. Question:</strong> The article describes what the critical engineer considers, but how should we define the critical engineer?</p>
 
-### Experiments
 
-![IMG_5200](https://user-images.githubusercontent.com/81450987/156942564-53bf8915-8d2c-446a-881d-5122caf458d6.jpeg)
-![IMG_5199](https://user-images.githubusercontent.com/81450987/156942569-e6600a93-2222-4e7c-b42f-b65f924eaabe.jpeg)
-![IMG_5203](https://user-images.githubusercontent.com/81450987/156942574-64108bb8-be77-4298-9c2f-6451eb8cf0e8.jpeg)
-![IMG_5195](https://user-images.githubusercontent.com/81450987/156942581-10344b04-7cf6-4002-909e-c1ebc94a58f9.jpeg)
-![IMG_5196](https://user-images.githubusercontent.com/81450987/156942583-95781897-7bcd-44df-a94b-0675a5909463.jpeg)
+
 
 
 
@@ -135,10 +130,13 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 
 ![IMG_6203 2](https://user-images.githubusercontent.com/81450987/160254650-043c525f-4e58-4572-9866-5d35b1fa895d.jpeg)
-
 <![IMG_5198](https://user-images.githubusercontent.com/81450987/163834302-4058cedc-96db-4efb-9b40-9477a20173e6.JPG)
-
 ![IMG_6209](https://user-images.githubusercontent.com/81450987/160254624-86cc1f14-65f2-4631-b288-eb12004065de.jpeg)
+![IMG_5200](https://user-images.githubusercontent.com/81450987/156942564-53bf8915-8d2c-446a-881d-5122caf458d6.jpeg)
+![IMG_5199](https://user-images.githubusercontent.com/81450987/156942569-e6600a93-2222-4e7c-b42f-b65f924eaabe.jpeg)
+![IMG_5203](https://user-images.githubusercontent.com/81450987/156942574-64108bb8-be77-4298-9c2f-6451eb8cf0e8.jpeg)
+![IMG_5195](https://user-images.githubusercontent.com/81450987/156942581-10344b04-7cf6-4002-909e-c1ebc94a58f9.jpeg)
+![IMG_5196](https://user-images.githubusercontent.com/81450987/156942583-95781897-7bcd-44df-a94b-0675a5909463.jpeg)
 
 
 ## Week 5
