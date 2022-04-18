@@ -110,10 +110,10 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 <p>- Schematics don't just tell you where to put components. They also tell you how to put them together.</p>
 <p>- Although the switchs have two parts they are made up of one component. </p>
 <p>- Electronic devices with metal chassis that connects to pins are grounded. </p>
-<p> Resistors only have two variants: The US and European variants. </p>
-<p> The Potentiometer symbols identify the wiper in the potentiometer </p>
-<p> There a 3 types of push buttons: normal pushbuttom (momentary switch)- where pressure closes the circuit and releasing opens the circuit."
-<p> Crossovers are used when wires must pass over each other without creating an electrical circuit </p>
+<p>- Resistors only have two variants: The US and European variants. </p>
+<p>-The Potentiometer symbols identify the wiper in the potentiometer </p>
+<p>-There a 3 types of push buttons: normal pushbuttom (momentary switch)- where pressure closes the circuit and releasing opens the circuit."
+<p>-Crossovers are used when wires must pass over each other without creating an electrical circuit </p>
     
 #7
     
