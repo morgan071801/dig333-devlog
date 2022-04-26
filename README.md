@@ -181,6 +181,26 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 
 <img width="298" alt="Screen Shot 2022-04-26 at 8 21 17 AM" src="https://user-images.githubusercontent.com/81450987/165298809-ca4aa041-8cef-4930-a50e-28afca30f9da.png">
 
+#PLATT EXPERIMENTS!
+<p>Materials:</p>
+<p>Heat Gun, Low-Power Soldering Iron, Power Supply with an output of AC or DC, Solder, Copper Aligator Clips</p>
+
+<p>In this experiment we worked as a class!</p>
+
+<p>Information I Learned:</p>
+<p>-If the solder melts slowly during this experiment then the iron is not hot enough</p>
+<p>-Soldering irons are not dangerous</p>
+<p>-Avoid dirt and grease when soldering</p>
+<p>-Large contact between the iton and working surfaces increase heat transfer</p>
+
+[IMG_5254](https://user-images.githubusercontent.com/81450987/165300140-cd845d80-484e-4c9c-9690-74511d706c13.JPG)
+![IMG_5255](https://user-images.githubusercontent.com/81450987/165300146-e1275231-ff59-4405-b658-490d56a56dfd.JPG)
+![IMG_5256](https://user-images.githubusercontent.com/81450987/165300149-99dcf601-7df5-474b-949e-3182b64169cf.JPG)
+![IMG_5257](https://user-images.githubusercontent.com/81450987/165300155-9291cb1b-4637-47a4-99b4-915c09324b67.JPG)
+![IMG_5251](https://user-images.githubusercontent.com/81450987/165300129-0720bbb5-b1c4-42a6-9437-1b93de61a96e.JPG)
+![IMG_5252](https://user-images.githubusercontent.com/81450987/165300134-06aa45b3-7358-4a77-b4f2-c91f3f60992c.JPG)
+![IMG_5253](https://user-images.githubusercontent.com/81450987/165300137-0ee49d3e-80c7-452d-921c-caec248aa6de.JPG)
+
 
 ## Week 6
 
