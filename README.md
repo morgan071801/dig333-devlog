@@ -187,11 +187,21 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 
 <p>In this experiment we worked as a class!</p>
 
-<p>Information I Learned:</p>
+<p>Information I Learned from Soldering:</p>
 <p>-If the solder melts slowly during this experiment then the iron is not hot enough</p>
 <p>-Soldering irons are not dangerous</p>
 <p>-Avoid dirt and grease when soldering</p>
 <p>-Large contact between the iton and working surfaces increase heat transfer</p>
+
+<p>Materials:</p>
+<p>9V battery and connector, Long-nosed pilers, 30 watt soldering iron, 12-watt soldering iron, LEDS, 470-ohm-resistor, copper aligator clips</p>
+
+<p>Information I Learned from blowing an LED:</p>
+<p>-The heat travels from the tip of the soldering iron into the wire that is connected to the LED and then into the aligator clips</p>
+<p>-The aligator clips function as a heat sink</p>
+<p>-Full sized copper alligator clips work best for this experiement</p>
+<p>-There must be a metal to metal connection</p>
+
 
 [IMG_5254](https://user-images.githubusercontent.com/81450987/165300140-cd845d80-484e-4c9c-9690-74511d706c13.JPG)
 ![IMG_5255](https://user-images.githubusercontent.com/81450987/165300146-e1275231-ff59-4405-b658-490d56a56dfd.JPG)
@@ -222,7 +232,7 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
     
 ### Experiments
 
-![IMG_5204](https://user-images.githubusercontent.com/81450987/156942552-ef41cee2-c891-47d8-ad80-650a4b2e524d.jpeg)
+
 
 ## Week 7
 
