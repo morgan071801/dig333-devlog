@@ -164,6 +164,24 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 
 <p style="text-align: center;"><strong>&quot;Pay for the Printer&quot;</strong></p>
 
+## Experiements
+<p style="text-align: center;"><strong>MONK EXPERIMENTS & Code Academy</strong></p>
+<p>Information I Learned:</p>
+<p>In this week Monk Experiments and Code Academy there was cross over material.</p>
+<p>-We learned about Lists and Dictionaries and how to access elements of a list and change them.</p>
+<p>-Additionally, we learned how to add and remove elements from a list.</p>
+<img width="313" alt="Screen Shot 2022-04-26 at 8 04 28 AM" src="https://user-images.githubusercontent.com/81450987/165297257-ff744ca6-d44a-4d16-be4d-96665a493aee.png">
+<img width="313" alt="Screen Shot 2022-04-26 at 8 09 32 AM" src="https://user-images.githubusercontent.com/81450987/165297264-de0aaf1d-d681-4716-a276-364bcd5b4752.png">
+<img width="313" alt="Screen Shot 2022-04-26 at 8 12 18 AM" src="https://user-images.githubusercontent.com/81450987/165297270-1b6c4af5-d210-411a-b55b-d70f5b4857b7.png">
+<img width="313" alt="Screen Shot 2022-04-26 at 8 12 18 AM" src="https://user-images.githubusercontent.com/81450987/165297653-c01e6ae9-5b53-447e-938c-69ac340354bc.png">
+
+<p>Additionally in Ch.8 we learned how to open, close, write and read files.</p>
+<p>-We learned about Lists and Dictionaries and how to access elements of a list and change them.</p>
+<p>-Additionally, we learned how to add and remove elements from a list.</p>
+
+<img width="298" alt="Screen Shot 2022-04-26 at 8 21 17 AM" src="https://user-images.githubusercontent.com/81450987/165298809-ca4aa041-8cef-4930-a50e-28afca30f9da.png">
+
+
 ## Week 6
 
 <p style="text-align: center;"><strong>&quot;Igloo White&quot;</strong></p>
@@ -183,6 +201,7 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
     <p><strong>5. Question:</strong> To what extent should sesnors be ambiguious without crossing the line?</p>
     
 ### Experiments
+
 ![IMG_5204](https://user-images.githubusercontent.com/81450987/156942552-ef41cee2-c891-47d8-ad80-650a4b2e524d.jpeg)
 
 ## Week 7
