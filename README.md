@@ -287,6 +287,30 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 -Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=MxUbqotDBnM</p>
 <img width="713" alt="Screen Shot 2022-04-30 at 9 21 13 AM" src="https://user-images.githubusercontent.com/81450987/166107419-407f9b62-852f-496d-9ed7-a883d3b1e18b.png">
 
+<p>Experiment #5</p>
+
+<p>Materials I would need:<br>
+-A DS1307 or compatible RTC module or an aLaMode board<br>
+-Female-to-female jumper wires</p>
+
+<p>Notes:<br>
+-the RTC module must be 3.3V compatible (I2C interface should either have no pull-up resistors at all or should pull up to 3.3V... not 5V)<br>
+-for the Adafruit model do not use the two resistors when soldering together the module<br>
+-your Raspberry Pi must be set up to work with I2C<br>
+-when using the original Raspberry Pi model B, revision 1, boards, then use 0 after the y option. <br>
+-to set the time on the RTC module, your Raspberry Pi should have the right time.. it can also be set manually<br>
+-might not always be using the Pi when connected to a network therefore RTC is a good option<br>
+-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=lyvoOEO-Ncg</p>
+
+<p>Steps:<br>
+1. Assemble the RTC module: pull-up resistors and connect the module to the Raspberry Pi<br>
+2. Run the program: hwclock<br>
+3. Check that raspberry Pi has the right time<br>
+4. Edit /etc/modules (using sudo nano /etc/modules) and add rtc-ds1307 to the end of the list of modules. <br>
+5. Edit the file /etc/rc.local using the command sudo nano /etc/rc.local, and just before the final exit 0 line, add these lines</p>
+
+<p></p>
+
 
 
 ## Week 7
