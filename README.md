@@ -264,6 +264,7 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 <p>-S1 and S4 being open allows the current to flow through the motor</p>
 <p>-Reversing the switches reverses S2 and S3 charges</p>
 <p>&nbsp;</p>
+
 ## Week 8
 <p>Experiment</p>
 
