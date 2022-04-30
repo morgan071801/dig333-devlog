@@ -245,6 +245,25 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 
 <img width="835" alt="Screen Shot 2022-04-05 at 4 49 36 PM" src="https://user-images.githubusercontent.com/81450987/161846713-c309951a-114f-42be-9a10-a23f66979e79.png">
 
+<p> Notes: </p>
+<p> Originally, I struggled with installing GPIO.. see below picture </p>
+
+<img width="560" alt="Screen Shot 2022-04-30 at 5 12 16 PM" src="https://user-images.githubusercontent.com/81450987/166122859-361a8ad2-5373-4ddc-87f8-22f1edea199e.png">
+
+<img width="872" alt="Screen Shot 2022-04-30 at 9 49 58 AM" src="https://user-images.githubusercontent.com/81450987/166122931-2cee97af-4957-4318-b65d-ace3594dee0e.png">
+
+<p>Notes:</p>
+<p>-the H-bridge reverses polarity across the motor</p>
+<p>-S1 and S4 being open allows the current to flow through the motor</p>
+<p>-Reversing the switches reverses S2 and S3 charges</p>
+<p>&nbsp;</p>
+<img width="872" alt="Screen Shot 2022-04-30 at 9 49 58 AM" src="https://user-images.githubusercontent.com/81450987/166123070-f23101fd-d0fc-4cb4-9ff3-6dad761f024f.png">
+
+<p>Notes:</p>
+<p>-the H-bridge reverses polarity across the motor</p>
+<p>-S1 and S4 being open allows the current to flow through the motor</p>
+<p>-Reversing the switches reverses S2 and S3 charges</p>
+<p>&nbsp;</p>
 ## Week 8
 <p>Experiment</p>
 
