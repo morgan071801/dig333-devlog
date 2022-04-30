@@ -341,6 +341,25 @@ responds from the step change when an output is switched from low to high<br>
 <p></p>
 <img width="872" alt="Screen Shot 2022-04-30 at 9 49 58 AM" src="https://user-images.githubusercontent.com/81450987/166108356-15f23f01-2c5d-4693-a27f-7350cdecdc25.png">
 
+<p>Experiment #7</p>
+
+<p>Materials I would need:<br>
+-Breadboard and jumper wires <br>
+-Photoresistor<br>
+-Two 1k&#937; resistors<br>
+-220 nF capacitor</p>
+
+<p>Notes:<br>
+- the goal is to measure light intensity<br>
+-use the same program pot_step.py<br>
+-photoresistor is a resistor whose resistance varies depending on the amount of light coming through its transparent window.<br>
+-The brighter the light, the lower the resistance.<br>
+-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=WLo5Rgvj6qo</p>
+
+<p></p>
+
+<p></p>
+
 
 
 
