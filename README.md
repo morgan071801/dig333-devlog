@@ -223,7 +223,7 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
     <p><strong>5. Question:</strong> What is the point of no return for sensors in the miltary?</p>
     
 <p style="text-align: center;"><strong>&quot;Unseen Sensors: Constantly Sensing but Rarely Seen &quot;</strong></p>
-<p><strong>1. Summary:</strong> &quot;&quot; In this article he talks about the invisble sensors of the world to make his readers more aware of how present sensors are in our lives.</p>[Uploading IMG_5204.HEIC…]()
+<p><strong>1. Summary:</strong> &quot;&quot; In this article he talks about the invisble sensors of the world to make his readers more aware of how present sensors are in our lives.</p>
 
 <p><strong>2. Quote:</strong> &quot;"For all their ubiquity, the aesthetics of these public objects are generally unconsidered, and their function and provenance are ebtirely inscrutable." &quot;</p>
     <p><strong>3. Comment:</strong> I this article very relatable because I often feel intrigued about the ambiguity of our technology.</p>
@@ -232,6 +232,20 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
     
 ### Experiments
 
+<p>Experiment #1</p>
+
+<p>Materials I would need:<br>
+-Female-to-female jumper wires<br>
+-PIR motion detector module</p>
+
+<p>Notes:<br>
+-PIR stands for passive infrared<br>
+- The goal is to trigger action once motion is detected<br>
+-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment:<br>
+https://www.youtube.com/watch?v=Tw0mG4YtsZk</p>
+
+
+<img width="516" alt="Screen Shot 2022-04-30 at 8 08 45 AM" src="https://user-images.githubusercontent.com/81450987/166105531-8447fb74-6a60-4525-8b27-a11a44a79907.png">
 
 
 ## Week 7
