@@ -299,7 +299,7 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 <img width="713" alt="Screen Shot 2022-04-30 at 9 21 13 AM" src="https://user-images.githubusercontent.com/81450987/166107419-407f9b62-852f-496d-9ed7-a883d3b1e18b.png">
 
 <p>Experiment #5</p>
-
+-
 <p>Materials I would need:<br>
 -A DS1307 or compatible RTC module or an aLaMode board<br>
 -Female-to-female jumper wires</p>
@@ -357,8 +357,20 @@ responds from the step change when an output is switched from low to high<br>
 -Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=WLo5Rgvj6qo</p>
 
 <p></p>
+<p>Experiment #8</p>
 
-<p></p>
+<p>Materials:</p>
+<p>-Breadboard and jumper wires&nbsp;&nbsp;</p>
+<p>-Methane sensor&nbsp;</p>
+<p>-Two 1k&Omega; resistors&nbsp;</p>
+<p>-220 nF capacitor&nbsp;</p>
+<p>&nbsp;</p>
+<p>Notes:</p>
+<p>-the sensor contains a heating element that requires 5V at up to 150 mA&nbsp;</p>
+<p>-the connections are to the six sensor pins, not the four pins of the breakout&nbsp;</p>
+<p>-Both the heater and the sensing surface are electrically just resistors</p>
+<p>-Both can be connected either way&nbsp;</p>
+<p>-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment:&nbsp;</p>
 
 
 
