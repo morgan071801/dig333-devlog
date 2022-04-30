@@ -247,6 +247,26 @@ https://www.youtube.com/watch?v=Tw0mG4YtsZk</p>
 
 <img width="516" alt="Screen Shot 2022-04-30 at 8 08 45 AM" src="https://user-images.githubusercontent.com/81450987/166105531-8447fb74-6a60-4525-8b27-a11a44a79907.png">
 
+<p>Experiment #2</p>
+
+<p>Materials I would need:<br>
+-Female-to-female jumper wires<br>
+-PIR motion detector module</p>
+
+<p>Notes:<br>
+-You must disable the console logging feature<br>
+-GPSD helps decode<br>
+-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment:https://www.youtube.com/watch?v=A1zmhxcUOxw</p>
+
+<p>
+Problems I Ran Into:<br>
+Mac does not have apt-get so I needed to download the package homebrew to install gpsd</p>
+<img width="903" alt="Screen Shot 2022-04-30 at 8 34 02 AM" src="https://user-images.githubusercontent.com/81450987/166106664-dc553585-ebe6-446b-a211-ea1e30db3dfc.png">
+<img width="1003" alt="Screen Shot 2022-04-30 at 8 34 31 AM" src="https://user-images.githubusercontent.com/81450987/166106666-46ed6dc6-ef3a-4cf3-adfa-c5d4f58d6d3e.png">
+<img width="564" alt="Screen Shot 2022-04-30 at 8 35 32 AM" src="https://user-images.githubusercontent.com/81450987/166106667-1636e37c-6dd0-4e5c-af9b-f448f3502b57.png">
+<img width="564" alt="Screen Shot 2022-04-30 at 8 39 29 AM" src="https://user-images.githubusercontent.com/81450987/166106668-49839f30-7a56-4b7b-b972-4879e6797b0d.png">
+<img width="713" alt="Screen Shot 2022-04-30 at 8 58 05 AM" src="https://user-images.githubusercontent.com/81450987/166106669-ad30fcfc-485e-46c3-832d-4a1e886f2f4a.png">
+
 
 ## Week 7
 
