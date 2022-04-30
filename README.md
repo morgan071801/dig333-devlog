@@ -370,7 +370,7 @@ responds from the step change when an output is switched from low to high<br>
 <p>-the connections are to the six sensor pins, not the four pins of the breakout&nbsp;</p>
 <p>-Both the heater and the sensing surface are electrically just resistors</p>
 <p>-Both can be connected either way&nbsp;</p>
-<p>-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment:&nbsp;</p>
+<p>-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=ZdvzQpFzne8 &nbsp;</p>
 
 
 
