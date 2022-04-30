@@ -232,6 +232,17 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
     
 ### Experiments
 
+<p style="text-align: center;"><strong>MONK EXPERIMENTS</strong></p>
+<p>Materials:</p>
+<p>5V servo motor, Breadboard and jumper wires, 1kΩ resistor, 5V 1A power supply or 4.8V battery pack</p>
+<p><br></p>
+
+
+<img width="835" alt="Screen Shot 2022-04-05 at 4 49 36 PM" src="https://user-images.githubusercontent.com/81450987/161846713-c309951a-114f-42be-9a10-a23f66979e79.png">
+
+
+
+## Week 7
 <p>Experiment #1</p>
 
 <p>Materials I would need:<br>
@@ -313,17 +324,7 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 
 
 
-## Week 7
 
-### Experiments
-
-<p style="text-align: center;"><strong>MONK EXPERIMENTS</strong></p>
-<p>Materials:</p>
-<p>5V servo motor, Breadboard and jumper wires, 1kΩ resistor, 5V 1A power supply or 4.8V battery pack</p>
-<p><br></p>
-
-
-<img width="835" alt="Screen Shot 2022-04-05 at 4 49 36 PM" src="https://user-images.githubusercontent.com/81450987/161846713-c309951a-114f-42be-9a10-a23f66979e79.png">
 
 
 
