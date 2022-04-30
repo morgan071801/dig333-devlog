@@ -337,12 +337,6 @@ responds from the step change when an output is switched from low to high<br>
 -using a step response works well with all kinds of resistive sensors for light <br>
 -Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=LREOsIXPoLY</p>
 
-<p>Steps:<br>
-1. Assemble the RTC module: pull-up resistors and connect the module to the Raspberry Pi<br>
-2. Run the program: hwclock<br>
-3. Check that raspberry Pi has the right time<br>
-4. Edit /etc/modules (using sudo nano /etc/modules) and add rtc-ds1307 to the end of the list of modules. <br>
-5. Edit the file /etc/rc.local using the command sudo nano /etc/rc.local, and just before the final exit 0 line, add these lines</p>
 
 <p></p>
 <img width="872" alt="Screen Shot 2022-04-30 at 9 49 58 AM" src="https://user-images.githubusercontent.com/81450987/166108356-15f23f01-2c5d-4693-a27f-7350cdecdc25.png">
