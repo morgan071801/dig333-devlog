@@ -243,7 +243,9 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 
 
 ## Week 7
-<p>Experiment #1</p>
+
+## Week 8
+<p>Experiment</p>
 
 <p>Materials I would need:<br>
 -Female-to-female jumper wires<br>
@@ -258,7 +260,7 @@ https://www.youtube.com/watch?v=Tw0mG4YtsZk</p>
 
 <img width="516" alt="Screen Shot 2022-04-30 at 8 08 45 AM" src="https://user-images.githubusercontent.com/81450987/166105531-8447fb74-6a60-4525-8b27-a11a44a79907.png">
 
-<p>Experiment #2</p>
+<p>Experiment</p>
 
 <p>Materials I would need:<br>
 -Female-to-female jumper wires<br>
@@ -278,7 +280,7 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 <img width="564" alt="Screen Shot 2022-04-30 at 8 39 29 AM" src="https://user-images.githubusercontent.com/81450987/166106668-49839f30-7a56-4b7b-b972-4879e6797b0d.png">
 <img width="713" alt="Screen Shot 2022-04-30 at 8 58 05 AM" src="https://user-images.githubusercontent.com/81450987/166106669-ad30fcfc-485e-46c3-832d-4a1e886f2f4a.png">
 
-<p>Experiment #3</p>
+<p>Experiment</p>
 
 
 <p>Notes:<br>
@@ -288,7 +290,7 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 --Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=DTnz8wA6wpw</p>
 <img width="516" alt="Screen Shot 2022-04-30 at 8 08 45 AM" src="https://user-images.githubusercontent.com/81450987/166107077-ef720e8f-9b52-491e-8ac1-efc786e3b2e3.png">
 
-<p>Experiment #4</p>
+<p>Experiment </p>
 
 <p>Notes:<br>
 -the goal is to detect mouse movements in python<br>
@@ -298,7 +300,7 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 -Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=MxUbqotDBnM</p>
 <img width="713" alt="Screen Shot 2022-04-30 at 9 21 13 AM" src="https://user-images.githubusercontent.com/81450987/166107419-407f9b62-852f-496d-9ed7-a883d3b1e18b.png">
 
-<p>Experiment #5</p>
+<p>Experiment</p>
 -
 <p>Materials I would need:<br>
 -A DS1307 or compatible RTC module or an aLaMode board<br>
@@ -321,7 +323,7 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 5. Edit the file /etc/rc.local using the command sudo nano /etc/rc.local, and just before the final exit 0 line, add these lines</p>
 
 <p></p>
-<p>Experiment #6</p>
+<p>Experiment</p>
 
 <p>Materials I would need:<br>
 -10k&#937; trimpot <br>
@@ -341,7 +343,7 @@ responds from the step change when an output is switched from low to high<br>
 <p></p>
 <img width="872" alt="Screen Shot 2022-04-30 at 9 49 58 AM" src="https://user-images.githubusercontent.com/81450987/166108356-15f23f01-2c5d-4693-a27f-7350cdecdc25.png">
 
-<p>Experiment #7</p>
+<p>Experiment</p>
 
 <p>Materials I would need:<br>
 -Breadboard and jumper wires <br>
@@ -357,7 +359,7 @@ responds from the step change when an output is switched from low to high<br>
 -Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=WLo5Rgvj6qo</p>
 
 <p></p>
-<p>Experiment #8</p>
+<p>Experiment</p>
 
 <p>Materials:</p>
 <p>-Breadboard and jumper wires&nbsp;&nbsp;</p>
