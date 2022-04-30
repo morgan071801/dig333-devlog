@@ -167,19 +167,6 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 ## Experiements
 <p style="text-align: center;"><strong>MONK EXPERIMENTS & Code Academy</strong></p>
 <p>Information I Learned:</p>
-<p>In this week Monk Experiments and Code Academy there was cross over material.</p>
-<p>-We learned about Lists and Dictionaries and how to access elements of a list and change them.</p>
-<p>-Additionally, we learned how to add and remove elements from a list.</p>
-<img width="313" alt="Screen Shot 2022-04-26 at 8 04 28 AM" src="https://user-images.githubusercontent.com/81450987/165297257-ff744ca6-d44a-4d16-be4d-96665a493aee.png">
-<img width="313" alt="Screen Shot 2022-04-26 at 8 09 32 AM" src="https://user-images.githubusercontent.com/81450987/165297264-de0aaf1d-d681-4716-a276-364bcd5b4752.png">
-<img width="313" alt="Screen Shot 2022-04-26 at 8 12 18 AM" src="https://user-images.githubusercontent.com/81450987/165297270-1b6c4af5-d210-411a-b55b-d70f5b4857b7.png">
-<img width="313" alt="Screen Shot 2022-04-26 at 8 12 18 AM" src="https://user-images.githubusercontent.com/81450987/165297653-c01e6ae9-5b53-447e-938c-69ac340354bc.png">
-
-<p>Additionally in Ch.8 we learned how to open, close, write and read files.</p>
-<p>-We learned about Lists and Dictionaries and how to access elements of a list and change them.</p>
-<p>-Additionally, we learned how to add and remove elements from a list.</p>
-
-<img width="298" alt="Screen Shot 2022-04-26 at 8 21 17 AM" src="https://user-images.githubusercontent.com/81450987/165298809-ca4aa041-8cef-4930-a50e-28afca30f9da.png">
 
 #PLATT EXPERIMENTS!
 <p>Materials:</p>
@@ -231,7 +218,25 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
     <p><strong>5. Question:</strong> To what extent should sesnors be ambiguious without crossing the line?</p>
     
 ### Experiments
+<p>In this week Monk Experiments and Code Academy there was cross over material.</p>
+<p>-We learned about Lists and Dictionaries and how to access elements of a list and change them.</p>
+<p>-Additionally, we learned how to add and remove elements from a list.</p>
+<img width="313" alt="Screen Shot 2022-04-26 at 8 04 28 AM" src="https://user-images.githubusercontent.com/81450987/165297257-ff744ca6-d44a-4d16-be4d-96665a493aee.png">
+<img width="313" alt="Screen Shot 2022-04-26 at 8 09 32 AM" src="https://user-images.githubusercontent.com/81450987/165297264-de0aaf1d-d681-4716-a276-364bcd5b4752.png">
+<img width="313" alt="Screen Shot 2022-04-26 at 8 12 18 AM" src="https://user-images.githubusercontent.com/81450987/165297270-1b6c4af5-d210-411a-b55b-d70f5b4857b7.png">
+<img width="313" alt="Screen Shot 2022-04-26 at 8 12 18 AM" src="https://user-images.githubusercontent.com/81450987/165297653-c01e6ae9-5b53-447e-938c-69ac340354bc.png">
 
+<p>Additionally in Ch.8 we learned how to open, close, write and read files.</p>
+<p>-We learned about Lists and Dictionaries and how to access elements of a list and change them.</p>
+<p>-Additionally, we learned how to add and remove elements from a list.</p>
+
+<img width="298" alt="Screen Shot 2022-04-26 at 8 21 17 AM" src="https://user-images.githubusercontent.com/81450987/165298809-ca4aa041-8cef-4930-a50e-28afca30f9da.png">
+
+
+
+
+
+## Week 7
 <p style="text-align: center;"><strong>MONK EXPERIMENTS</strong></p>
 <p>Materials:</p>
 <p>5V servo motor, Breadboard and jumper wires, 1kΩ resistor, 5V 1A power supply or 4.8V battery pack</p>
@@ -239,10 +244,6 @@ like Apple exists in Silicon Valley, but only includes about 6.31% of silicon in
 
 
 <img width="835" alt="Screen Shot 2022-04-05 at 4 49 36 PM" src="https://user-images.githubusercontent.com/81450987/161846713-c309951a-114f-42be-9a10-a23f66979e79.png">
-
-
-
-## Week 7
 
 ## Week 8
 <p>Experiment</p>
