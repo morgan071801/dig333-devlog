@@ -321,6 +321,32 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 5. Edit the file /etc/rc.local using the command sudo nano /etc/rc.local, and just before the final exit 0 line, add these lines</p>
 
 <p></p>
+<p>Experiment #6</p>
+
+<p>Materials I would need:<br>
+-10k&#937; trimpot <br>
+-Two 1k&#937; resistors<br>
+-220 nF capacitor</p>
+
+<p>Notes:<br>
+- the reading of the output will vary between 10 and 170 as the knob of the trimpot rotates<br>
+-the way of doing things is called step response because it works by seeing how the circuit<br>
+responds from the step change when an output is switched from low to high<br>
+-the voltage can't be measured directly because the Raspberry Pi doesn&rsquo;t have an ADC converter<br>
+-the speed at which the capacitor fills with charge depends on the value of the variable resistor<br>
+-using a step response works well with all kinds of resistive sensors for light <br>
+-Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=LREOsIXPoLY</p>
+
+<p>Steps:<br>
+1. Assemble the RTC module: pull-up resistors and connect the module to the Raspberry Pi<br>
+2. Run the program: hwclock<br>
+3. Check that raspberry Pi has the right time<br>
+4. Edit /etc/modules (using sudo nano /etc/modules) and add rtc-ds1307 to the end of the list of modules. <br>
+5. Edit the file /etc/rc.local using the command sudo nano /etc/rc.local, and just before the final exit 0 line, add these lines</p>
+
+<p></p>
+<img width="872" alt="Screen Shot 2022-04-30 at 9 49 58 AM" src="https://user-images.githubusercontent.com/81450987/166108356-15f23f01-2c5d-4693-a27f-7350cdecdc25.png">
+
 
 
 
