@@ -267,6 +267,17 @@ Mac does not have apt-get so I needed to download the package homebrew to instal
 <img width="564" alt="Screen Shot 2022-04-30 at 8 39 29 AM" src="https://user-images.githubusercontent.com/81450987/166106668-49839f30-7a56-4b7b-b972-4879e6797b0d.png">
 <img width="713" alt="Screen Shot 2022-04-30 at 8 58 05 AM" src="https://user-images.githubusercontent.com/81450987/166106669-ad30fcfc-485e-46c3-832d-4a1e886f2f4a.png">
 
+<p>Experiment #3</p>
+
+
+<p>Notes:<br>
+-a program using sys.stdin.read function can be run from ssh session<br>
+-an alternative approach is to use Pygame. Pygame which is a library for writing games<br>
+-when using the Pygame approach, other keys have constant values, this allows the use of the cursor and other non-ASCII keys which is not possible using the other approach<br>
+--Due to my pi being already set up for my final project I watched this youtube video as a replacement for the experiment: https://www.youtube.com/watch?v=DTnz8wA6wpw</p>
+<img width="516" alt="Screen Shot 2022-04-30 at 8 08 45 AM" src="https://user-images.githubusercontent.com/81450987/166107077-ef720e8f-9b52-491e-8ac1-efc786e3b2e3.png">
+
+
 
 ## Week 7
 
